@@ -1,0 +1,50 @@
+.container {
+  border: 5px solid black;
+}
+
+.d-flen {
+  border: 3px solid red;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.col-md-2 {
+  width: 16%;
+  border: 3px solid black;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.col-md-96 {
+  width: 80%;
+  border: 1px solid blue;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.year-button {
+  background-color: #4caf50;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.Arrow_Button {
+  width: 5%;
+  border: 1px solid blue;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.content {
+  width: 85%;
+  border: 1px solid blue;
+  padding: 10px;
+  box-sizing: border-box;
+}
